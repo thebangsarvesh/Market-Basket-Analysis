@@ -3,7 +3,7 @@
 
 ## Dataset Description
 
-* Different products given 7500 transactions over the course of a week at a French retail store.
+* Data of 3 Million customer orders of Instacart was taken from Kaggle.
 * We have library(**apyori**) to calculate the association rule using Apriori.
 
 ## Import the Library
